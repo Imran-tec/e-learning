@@ -1,0 +1,12 @@
+.main-body{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.main-container{
+    display: flex;
+}
+.cart{
+    width: 60rem;
+    border-left: 1px solid gray;
+}
